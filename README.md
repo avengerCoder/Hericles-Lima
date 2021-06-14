@@ -1,8 +1,8 @@
 ### Héricles Lima 👋
 ### I'm a Fullstack Developer!
 
-- 🔭 I’m currently working on a bank application.
-- 🌱 I’m currently learning Java and Web development.
+- 🔭 I’m currently working on an E-Learning Platform.
+- 🌱 I’m currently React.JS.
 - 👯 I’m looking to collaborate in Frontend development projects.
 
 ### You Can reach me on:
