@@ -12,7 +12,7 @@
 
 <!-- ![Héricles Lima github stats](https://github-readme-stats.vercel.app/api?username=avengerCoder&theme=white&show_icons=true&count_private=true&line_height=40)-->
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats)
 
 <!-- POINTS --->
 <!-- <p align="center">
