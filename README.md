@@ -31,6 +31,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
 
+<br/>
 
 <!-- ![Héricles Lima github stats](https://github-readme-stats.vercel.app/api?username=avengerCoder&theme=white&show_icons=true&count_private=true&line_height=40)-->
 ### Languages:
