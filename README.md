@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React.JS.
 - 👯 I’m looking to collaborate in Frontend development projects.
 
-### You Can reach me on:
+### You can reach me on:
 
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ricles-lima-35979b203/?locale=pt_BR)
 
