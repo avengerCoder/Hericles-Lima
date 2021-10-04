@@ -30,13 +30,12 @@
 <br/>
 <br/>
 
-<!-- ![Héricles Lima github stats](https://github-readme-stats.vercel.app/api?username=avengerCoder&theme=white&show_icons=true&count_private=true&line_height=40)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=10)](https://github.com/hericlesLima/github-readme-stats)
-
 <div>
   <a href="https://github.com/hericlesLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesLima&show_icons=true&theme=blue-white&include_all_commits=true&count_private=true"/>
- 
+</div>
+  
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=7&theme=blue-white"/>
 </div>
 <!-- POINTS --->
