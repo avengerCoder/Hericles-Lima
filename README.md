@@ -27,11 +27,11 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="Rafa-Js" height="30" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="left" alt="Rafa-React" height="30" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
+<img align="left" alt="Rafa-CSS" height="30" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
 
 <br/>
 <br/>
