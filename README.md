@@ -27,19 +27,18 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
 
-<div>
-  <a href="https://github.com/hericlesLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues10&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-
 <br/>
 <br/>
 
 <!-- ![Héricles Lima github stats](https://github-readme-stats.vercel.app/api?username=avengerCoder&theme=white&show_icons=true&count_private=true&line_height=40)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=10)](https://github.com/hericlesLima/github-readme-stats)
 
+<div>
+  <a href="https://github.com/hericlesLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues10&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 <!-- POINTS --->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avengerCoder&margin-w=7" alt="Héricles Lima points" />
