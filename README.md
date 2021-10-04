@@ -31,12 +31,6 @@
  
 <img align="left" alt="Rafa-CSS" height="30" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
 
-<img align="left" alt="Rafa-CSS" height="30" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
-
-<img align="left" alt="Rafa-CSS" height="30" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
-
-<img align="left" alt="Rafa-CSS" height="30" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
-
 <br/>
 <br/>
 
