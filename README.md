@@ -1,7 +1,7 @@
 ### Héricles Lima 👋
 ### I'm a Fullstack Developer!
 
-- 🔭 I’m currently working at KriolCampus E-Learning Platform.
+- 🔭 I’m currently working at ImmoCV.
 - 🌱 I’m currently learning React.JS.
 - 👯 I’m looking to collaborate in Frontend development projects.
 
