@@ -49,6 +49,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesLima&show_icons=true&theme=blue-white&include_all_commits=true&count_private=true"/>
 </div>
 
+ <br/>
+<br/>
 
    <p>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hericles Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
