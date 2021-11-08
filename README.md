@@ -37,7 +37,7 @@
  
    
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=7&theme=1F222E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=7&theme=blue-white"/>
 </div>
  
 <br/>
@@ -46,12 +46,11 @@
 
 <div>
   <a href="https://github.com/hericlesLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesLima&show_icons=true&theme=1F222E&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesLima&show_icons=true&theme=blue-white&include_all_commits=true&count_private=true"/>
 </div>
 
 
- <h4>📊 Stats</h4>
    <p>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hericles Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
    </p>
 
