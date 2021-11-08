@@ -49,4 +49,9 @@
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avengerCoder&margin-w=7" alt="Héricles Lima points" />
 </p> -->
+ 
+ <h4>📊 Stats</h4>
+   <p>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
+   </p>
 
