@@ -47,7 +47,7 @@
 </div>
 <!-- POINTS --->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avengerCoder&margin-w=7" alt="Héricles Lima points" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hericlesLima&margin-w=7" alt="Héricles Lima points" />
 </p>
  
  <h4>📊 Stats</h4>
