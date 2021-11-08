@@ -46,9 +46,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=7&theme=blue-white"/>
 </div>
 <!-- POINTS --->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avengerCoder&margin-w=7" alt="Héricles Lima points" />
-</p> -->
+</p>
  
  <h4>📊 Stats</h4>
    <p>
