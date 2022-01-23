@@ -17,6 +17,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<a href="https://app.daily.dev/Hery899"><img src="https://api.daily.dev/devcards/8863e786f7bb4584b00303854c419b11.png?r=14u" width="400" alt="Héricles Lima's Dev Card"/></a>
 
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 
