@@ -1,8 +1,8 @@
 ### Héricles Lima 👋
-### I'm a Fullstack Developer!
+### I'm a Frontend Developer!
 
-- 🔭 I’m currently working at ImmoCV.
-- 🌱 I’m currently learning React.JS.
+- 🔭 I’m currently working at DevTrust Consulting.
+- 🌱 I’m currently working with the MERN stack.
 - 👯 I’m looking to collaborate in Frontend development projects.
 
 ### You can reach me on:
