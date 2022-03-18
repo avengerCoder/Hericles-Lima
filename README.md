@@ -45,15 +45,7 @@
 </div>
 
  <br/>
- 
- <a href="https://app.daily.dev/Hery899"><img src="https://api.daily.dev/devcards/8863e786f7bb4584b00303854c419b11.png?r=14u" width="400" alt="Héricles Lima's Dev Card"/></a> 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-   <p>
+ <p>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hericles Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
    </p>
 
