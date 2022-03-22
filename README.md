@@ -31,7 +31,6 @@
  
 <br/>
 <br/>
-<br/>
    
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesLima&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -47,6 +46,8 @@
 </div>
 
  <br/>
+ <br/>
+ 
  <p>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hericles Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hericlesLima&layout=compact&bg_color=1F222E&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
    </p>
