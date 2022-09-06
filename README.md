@@ -2,7 +2,7 @@
 ### I'm a Frontend Developer!
 
 - 🔭 I’m currently working at DevTrust Consulting.
-- 🌱 I’m currently working with the MERN stack.
+- 🌱 I’m currently working with Javascript stacks.
 - 👯 I’m looking to collaborate in Frontend development projects.
 
 ### You can reach me on:
